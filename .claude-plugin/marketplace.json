@@ -1,0 +1,45 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-prompt-evaluator",
+  "version": "1.0.0",
+  "description": "A marketplace for Claude Code plugin quality tools. Grade and improve your skills, agents, hooks, and manifests with actionable A–F reports.",
+  "owner": {
+    "name": "Jerry Chen",
+    "email": "ordinary9843@gmail.com"
+  },
+  "metadata": {
+    "description": "A marketplace for Claude Code plugin quality tools. Grade and improve your skills, agents, hooks, and manifests with actionable A–F reports."
+  },
+  "plugins": [
+    {
+      "name": "prompt-evaluator",
+      "description": "Instantly audit all your Claude Code Markdown files and agent configs. This tool scores your setup (A–F) against official Anthropic best practices and provides precise, actionable fixes to maximize your AI assistant's reliability. No vague advice—just clear solutions.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jerry Chen",
+        "email": "ordinary9843@gmail.com"
+      },
+      "source": "./",
+      "category": "productivity",
+      "tags": [
+        "claude-code",
+        "review",
+        "audit",
+        "score",
+        "grading",
+        "quality",
+        "lint",
+        "best-practices",
+        "prompt-engineering",
+        "evaluation",
+        "rubric",
+        "agent",
+        "rules",
+        "markdown"
+      ],
+      "license": "MIT",
+      "homepage": "https://github.com/ordinary9843/claude-prompt-evaluator-plugin",
+      "repository": "https://github.com/ordinary9843/claude-prompt-evaluator-plugin"
+    }
+  ]
+}

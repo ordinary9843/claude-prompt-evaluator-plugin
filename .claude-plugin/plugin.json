@@ -1,0 +1,28 @@
+{
+  "name": "prompt-evaluator",
+  "description": "Two commands, any Claude Code markdown file. /prompt-evaluator:review scores it; /prompt-evaluator:fix improves it. Auto-detects SKILL.md, agent .md, rules, commands, memory, output styles, and CLAUDE.md.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jerry Chen",
+    "email": "ordinary9843@gmail.com"
+  },
+  "homepage": "https://github.com/ordinary9843/claude-prompt-evaluator-plugin",
+  "repository": "https://github.com/ordinary9843/claude-prompt-evaluator-plugin",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "review",
+    "audit",
+    "score",
+    "grading",
+    "quality",
+    "lint",
+    "best-practices",
+    "prompt-engineering",
+    "evaluation",
+    "rubric",
+    "agent",
+    "rules",
+    "markdown"
+  ]
+}
